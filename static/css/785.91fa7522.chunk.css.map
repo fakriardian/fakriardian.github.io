@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/785.91fa7522.chunk.css","mappings":"AAAA,GAEI,cAAe,CADf,iBAEJ,CAEA,KACI,eAAkB,CAClB,UACJ","sources":["components/pages/Home/home.css"],"sourcesContent":["h2 {\r\n    text-align: center;\r\n    font-size: 32px;\r\n}\r\n\r\nbody {\r\n    background:  black;\r\n    color: white;\r\n}"],"names":[],"sourceRoot":""}
